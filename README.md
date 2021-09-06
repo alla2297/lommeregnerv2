@@ -1,5 +1,5 @@
 # lommeregner/ calculator
 
-pressure on number./n
-do it again. /n
+pressure on number.
+do it again. 
 and press a symbol "+,-,/,*"
